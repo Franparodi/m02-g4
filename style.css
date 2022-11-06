@@ -1,0 +1,197 @@
+body{
+	font-family: 'Mukta', sans-serif;
+	background-image: url(https://wallpaperaccess.com/full/1971371.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+header{
+	    width: 78%;
+	    height: auto;
+	    margin: 0 auto;
+	    margin-bottom: 10px;
+	    background-color: #ED028C;
+	    border-radius: 90px;
+	    padding: 5px;
+	    color: white;
+	    text-align: center;
+	    font-size: x-large;
+	    font-weight: 800;
+	}
+
+.autorpa{
+	display: block;
+	width: 220px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	border-radius: 10px;
+	filter: grayscale(100%);
+}
+
+section{
+	height: auto;
+	width: 78%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+#titulo{
+	background-color: #ED028C;
+	color: white;
+	padding: 5px;
+	text-align: center;
+	font-size: medium;
+	font-weight: 600;
+	border-radius: 90px;
+	margin-left: 5px;
+}
+
+.tuerca{
+	width: 150px;
+	text-align: center;
+}
+
+#titulo1{
+	background-color: #000000;
+	color: white;
+	padding: 5px;
+	text-align: center;
+	font-size: medium;
+	font-weight: 600;
+	border-radius: 90px;
+	margin-left: 5px;
+}
+
+#texto{
+	padding: 10px;
+	margin-left: 5px;
+	columns: 2;
+	text-align: justify;
+	grid-column-gap: 25px ;
+}
+
+ul{
+		list-style: none;
+		padding: 0;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+
+ul li{
+		padding: 10px;
+		margin-bottom: 5px;
+		background-color: #000000;
+		border-radius: 90px;
+		margin-left: 5px;
+		font-weight: 600;
+	}
+
+ul li.indice{
+	display: inline-block;
+	width: 47%;
+	text-align: center;
+}
+
+ul li i{
+		margin-right: 3px;
+		font-size: 15px;
+		color: white;
+	}
+
+.swamp{
+	width: 50%;
+	margin-top: 15px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+
+#esqema2{
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+#esqema1{
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+
+#referencias{
+	background-color: transparent;
+	margin-left: 15px;
+}
+
+.ref{
+	list-style: decimal;
+}
+
+a{
+	color: white;
+}
+
+#links{
+	color: black;
+}
+
+#links:hover{
+	color: #ED028C;
+}
+
+a:hover{
+		color: #ED028C;
+	}
+
+
+p{
+		margin: 0;
+		margin-bottom: 15px;
+	}
+	
+#ult{
+		margin: 0;
+	}
+
+.eqipo{
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+section#eqipo{
+	text-align: center;
+}
+
+.nosotras{
+	width: 100px;
+	margin-right: auto;
+	margin-left: 15px;
+	margin-top: 10px;
+	filter: grayscale(100%);
+	border-radius: 150px;
+	border: 5px #000 solid;
+}
+
+a#us:hover{
+	color: black;
+}
+
+footer{
+	    width: 78%;
+	    height: auto;
+	    margin: 0 auto;
+	    margin-bottom: 10px;
+	    background-color: #ED028C;
+	    border-radius: 90px;
+	    padding: 5px;
+	    color: white;
+	    text-align: center;
+	    font-weight: 600;
+	    font-size: large ;
+	}
+
